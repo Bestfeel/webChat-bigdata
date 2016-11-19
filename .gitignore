@@ -3,6 +3,6 @@
 
 target/
 
-resources/
+prd_resources/
 
 shell/

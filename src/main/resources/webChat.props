@@ -1,0 +1,12 @@
+touser = @all
+totag = @all
+toparty = @all
+msgtype = text
+agentid = 3
+safe = 0
+corpId = xxxxx
+corpSecret = xxxxxxx
+token = xxxxxx
+encodingAESKey = xxxxxxxxx
+
+
